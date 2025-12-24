@@ -32,7 +32,7 @@ I am a dedicated Full Stack Developer with a strong interest in building clean, 
 ## 🛠️ Languages and Tools  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,linux,git,github" />
 </p>
 
 ---
