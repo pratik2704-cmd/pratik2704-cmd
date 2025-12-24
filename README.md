@@ -39,7 +39,7 @@ I am a dedicated Full Stack Developer with a strong interest in building clean, 
 
 ## 📌 Featured Projects  
 
-### 🔹 Personal Finance Tracker  
+### 🔹 Traval booking website   
 - A web application to track income, expenses, and savings  
 - Technologies: **HTML, CSS, JavaScript,PostgresDB**
 
