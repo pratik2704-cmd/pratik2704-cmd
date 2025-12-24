@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tej Sutar  
+# Hi 👋, I'm Pratik kumbhar  
 
 ### 🚀 A Passionate Full Stack Developer  
 
