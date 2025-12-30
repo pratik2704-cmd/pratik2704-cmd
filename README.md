@@ -8,7 +8,7 @@ I am a dedicated Full Stack Developer with a strong interest in building clean, 
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **Personal Finance Tracker**  
+- 🔭 I’m currently working on **Hotel booking system**  
 - 🌱 I’m currently learning **DSA, Python, and Java Full Stack Development**  
 - 👯 I’m looking to collaborate on **Web Development & Open Source Projects**   
 - 💬 Ask me about **HTML, CSS, Java, C/C++**  
