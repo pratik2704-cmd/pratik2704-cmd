@@ -30,14 +30,11 @@ I am a dedicated Full Stack Developer with a strong interest in building clean, 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejsutar8" height="30" width="40" /></a>
+<a href="https://x.com/pratik_2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejsutar8" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pratik-kumbhar-b40351283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tej-sutar-6094b52a5/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25470101/tej-sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25470101/tej-sutar" height="30" width="40" /></a>
-<a href="https://fb.com/tejsutar8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejsutar8/" height="30" width="40" /></a>
-<a href="https://instagram.com/tejsutar8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejsutar8/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejsutar8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejsutar8/" height="30" width="40" /></a>
-</p>
----
+<a href="https://www.instagram.com/_pratik_kumbhar_07/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejsutar8/" height="30" width="40" /></a>
+
+
 
 ## 🛠️ Languages and Tools  
 
