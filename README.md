@@ -11,7 +11,7 @@ I am a dedicated Full Stack Developer with a strong interest in building clean, 
 - 🔭 I’m currently working on **Hotel booking system**  
 - 🌱 I’m currently learning **DSA, Python, and Java Full Stack Development**  
 - 👯 I’m looking to collaborate on **Web Development & Open Source Projects**   
-- 💬 Ask me about **HTML, CSS, Java, C/C++**  
+- 💬 Ask me about **HTML, CSS, Java, C/C++, JDBC/SERVLET**  
 - 📫 How to reach me: **pratikkumbhar2704@gmail.com**
 
 ---
